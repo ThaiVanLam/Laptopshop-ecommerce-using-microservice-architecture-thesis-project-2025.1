@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ThaiVanLam/Ecom-Frontend-thesis-project-2025.1.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ThaiVanLam/e-com_thesis_project_spring_boot_2025.1.git
